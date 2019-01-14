@@ -1,0 +1,69 @@
+project: 2b2t world download
+
+
+1) plan:
+
+download the 2b2t world to analyze the chunks
+I plan to download the overworld and nether and if it's possible also the end.
+Let's call the people that want to help with the downloads: loaders.
+
+1.how to get loaders
+-people that are also interested in a 2b2t world download so it's like a collaboration. Find them with eg with a Reddit post.
+-ask newfags and spawnfags directly or with randomly placed signs, with name tags on withers... whether they are interested in data and whether they want to download 2b2t. That way newfags can find purpose on 2b2t
+-ask people that are already observers to download the world. I will write a program to search the downloads for nether portals
+-also, use old world downloads and ones I did myself.
+
+
+2.how to convince people:
+-you get a free society kit for every 10. full region file you downloaded and sent (this amount can be regulated depending on how many loaders there are and how much they download)
+-if loaders are interested in a wold download they can get one.
+-loaders can also get the data I find out.
+-the program is not from a 2b player so nobody will find out about coords and there aren't any other backdoors. Many people already know the program anyway (project vault or 2bMuseum)
+
+3.how many people:
+-the project can be executed with any amount of people. The more loaders participate the earlier I can start analyzing the data.
+-if there are too many people that want to join the project I can make a wait list
+
+4.area to download
+-the download should go as far as possible but I think the most data will be <~50k because people might have their private builds after that and probably don't want it to be downloaded and known
+-if loaders ask what to download, I will send them to an area where there are some regions missing. Otherwise, loaders are free to download in any region they want.
+-if there are chunks missing I would average it out with the chunks around it to see the effects
+
+
+5.sorting the downloaded world
+-I will probably save the oldest and newest region files on my computer and buy a new hard drive if it is needed.
+-the chunks in between are saved in a file type designed by me so it doesn't take up as much space as the region files.
+
+
+
+2) my goal is to analyze the chunks for interesting things and also with the background to get more information about:
+
+1.Player Activity:
+-by sign contents
+-by chest contents and other containers (if available -> the container has to be opened in order to be saved)
+-by entities like withers (can't promise this works also because 2b2ts plugins fuck with the entity saving on world downloader)
+-by what shape the highways are
+-by the changes on highways
+-by highway density
+-by the change in highway density
+-by portals (whether they are activated, how much broken, whether their portal blocks face the right direction and how many corners blocks there are)
+-by change on every block (in relation to time)
+-by number of blocks (cobble, wood, obby, stone, water, lava, portal blocks, farmland, air, bedrock)
+-by number of blocks in relation (eg cobble to stone, water to lava)
+-by the maximum height, average height and lowest height the blocks in a chunk are
+-by chunk borders (for player activity from long ago)
+-by how many blocks there are in relation to 0 0 or a highway
+-by how much the 2b2t world has changed compared to a newly generated world
+
+2.Chunk Age:
+-by sign contents
+-by portals (whether they are activated, how much broken, whether their portal blocks face the right direction and how many corners blocks there are)
+-by chunk borders
+-by blocks in the chunk (some blocks came with updates like eg granite with 1.8)
+-obviously, compare how the world is generated with older versions of the 2b2t seed
+
+
+3.other things to analyze out of interest (will probably be expanded by much)
+-sign contents for history about players
+-how many spawners are destroyed in some areas
+
