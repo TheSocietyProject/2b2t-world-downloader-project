@@ -1,0 +1,49 @@
+#WorldDownloader tutorial
+-start minecraft 1.12.2
+
+-download forge 1.12.2 at https://files.minecraftforge.net/
+-execute and install the client
+-start Minecraft with forge
+
+-download liteloader (needed for worlddownloader) at:
+https://www.liteloader.com/download#snapshot_11220 -> 1.12 exe or jar
+-open and select: extends from: 1.12.2-forge1.12.2-14.23.5.2772 and press ok
+
+-download world downloder at https://github.com/Pokechu22/WorldDownloader/releases/tag/v4.0.3.1
+-> mod-litemodwdl-4.0.3.1-mc1.12.2.litemod
+
+
+-if you want to use hacks together with worldownloader I recommend kami:
+-> https://github.com/zeroeightysix/KAMI/releases / KAMI-b9-release.jar
+
+forgehax
+-> https://github.com/fr1kin/ForgeHax/releases /
+forgehax-1.12.2-2.9.0.jar (might be backdoored)
+
+journeymap for waypoints and a map
+-> https://minecraft.curseforge.com/projects/journeymap dwnload latest file
+
+mod for sorting your inventory
+-> https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/download/2482481
+
+not enough items
+-> https://minecraft.curseforge.com/projects/not-enough-items-1-8/files/2509851 ? download
+
+optifine
+-> https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_E2.jar
+
+xray mod
+-> https://mc-mods.org/advanced-xray-mod/ download 1.12
+
+asuna
+
+
+schematica
+-> https://mods.io/mods/1008-schematica
+you need -> https://minecraft.curseforge.com/projects/lunatriuscore
+
+-move all the mods in your .minecraft folder (you get there by pressing windows + R -> %appdata% -> .minecraft/mods)
+
+
+-when joining its best to select disable multiword
+because otherwise you have to select a world where you are in when starting a download and when switching dimensions.
