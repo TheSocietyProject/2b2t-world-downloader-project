@@ -13,7 +13,7 @@ Let's call the people that want to help with the downloads: loaders.
 
 
 2.sorting the downloaded world
--The files will be saved on github on branches. It could be sorted by user, time or area
+-The files will be saved on github in branches. It could be sorted by user, time or area
 -the chunks in between might be saved in a file type designed by me so it doesn't take up as much space as the region files.
 
 
