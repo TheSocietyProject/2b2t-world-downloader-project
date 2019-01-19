@@ -54,6 +54,6 @@ Let's call the people that want to help with the downloads: loaders.
 -y lvls of portals
 -average change in relation to time.
 -how many and what monuments are built. Maybe also the lvl of grief of each monument. A monument also includes minor coords like 8k 5k.
-
+-playces where the ice has unnatural fromes like the swizz cheese ice (in old generated chunks)
 
 
