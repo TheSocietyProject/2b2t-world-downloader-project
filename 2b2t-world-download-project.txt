@@ -48,4 +48,9 @@ Let's call the people that want to help with the downloads: loaders.
 3.other things to analyze out of interest (will probably be expanded by much)
 -sign contents for history about players
 -how many spawners are destroyed in some areas
+-how much portals r changed
+-how much portals r changed in over world compared to nether
+-how fast incursion builds get destroyed
+-y lvls of portals
+-average change in relation to time.
 
