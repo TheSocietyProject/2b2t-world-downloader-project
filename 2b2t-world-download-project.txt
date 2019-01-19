@@ -55,5 +55,11 @@ Let's call the people that want to help with the downloads: loaders.
 -average change in relation to time.
 -how many and what monuments are built. Maybe also the lvl of grief of each monument. A monument also includes minor coords like 8k 5k.
 -playces where the ice has unnatural fromes like the swizz cheese ice (in old generated chunks)
+-areas of destructon. Sometimes the terrain is griefed although there is no reason for it visible.
+-old base coords. Maybe you can use the coords for old bases to easier make out where someone would build his base even today
+
+
+
+
 
 
